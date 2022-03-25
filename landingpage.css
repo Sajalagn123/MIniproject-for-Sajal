@@ -1,0 +1,12 @@
+header {background-color: aquamarine;}
+
+footer {background-color: aquamarine;
+padding: 30px;
+}
+
+.image{border: 100px; border-radius: 20px;
+border-color: black;}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
