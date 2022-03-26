@@ -7,5 +7,7 @@ So far I have added a header and footer with an aquamarine background. I also in
 
 I had the nav bar display inline. Also I moved the nav elements to the left and centered them. I have also added input elements to the contact section of the page. 
 
+I added a back gorund color of grey and fixed the caption onto the image. I also centered the footer of the page.
+
 ## Instalation
 To install my project, I created a repository for it on Github. After that I cloned the repository onto my desktop. I then copied the folders from my class repository and pasted them into my folder. From there, I opened the assignments into a serperate folder.
